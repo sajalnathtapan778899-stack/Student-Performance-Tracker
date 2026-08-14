@@ -1,0 +1,7 @@
+{
+  "name": "Student Performance Tracker",
+  "description": "Comprehensive student management, marks recording, and performance analytics system for teachers and coaching centres.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
